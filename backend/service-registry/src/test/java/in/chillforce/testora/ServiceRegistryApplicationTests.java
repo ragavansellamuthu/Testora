@@ -1,4 +1,4 @@
-package in.chillforce.testora.registry;
+package in.chillforce.testora;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
